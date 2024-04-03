@@ -1,15 +1,24 @@
-# Mmouse 
+<h1 align="center">Welcome to Mmouse 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="mit" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
+
+> 사내 정책상 화면잠금을 매우 짧은 시간으로 설정해야 하는 경우가 있습니다.<br>
+> PC를 여러 대 쓸 때 화면이 잠기거나 인사시스템에 자리비움으로 보이지 않도록 하려고 만든 프로그램입니다. 🙄🙄
+
+<br>
 
 ![image](https://github.com/binary-river/mmouse/assets/66468384/09d389de-33a2-46d3-b03e-11521c1408c9)
 
-<pre>
-회사에서 일하다 보면 사내 정책상 화면잠금을 매우 짧은 시간으로 설정해야 하는 경우가 있습니다.
-PC를 여러대 쓸 때 화면잠금이 자동으로 되면 꽤나 불편한 경우가 많아 만들었습니다.
-  
-프로그램은 Mmouse.java 단일 자바 파일로 이루어져 있습니다.
-해당 파일을 컴파일 후 실행하면 위 이미지와 같은 창이 생성됩니다.
-  
-Move를 클릭하는 경우, 마우스가 매우 느린 속도로 화면을 가로질러 움직입니다.
-Stop 버튼을 클릭하거나, 키보드 'c' 를 누르면 마우스가 정지합니다.
+
+## Install
+Mmouse.java 단일 파일로 이루어진 프로그램입니다.<br>
+해당 파일을 컴파일 및 실행하시거나, manifest.txt 를 이용해 jar 파일을 생성하여 사용 가능합니다.
+
+## Usage
+Move를 클릭하는 경우, 마우스가 매우 느린 속도로 화면을 가로질러 움직입니다.<br>
+Stop 버튼을 클릭하거나, 키보드 'c' 를 누르면 마우스가 정지합니다.<br>
 (키보드 'c'가 안먹히는 경우, alt+tab을 이용해 mmouse를 활성화 창으로 만든 후 'c'를 눌러주세요)
-</pre>
