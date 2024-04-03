@@ -4,7 +4,9 @@
 PC를 여러대 쓰는 경우, 화면잠금이 자동으로 되는 경우 꽤나 불편한 경우가 많습니다.
 
 <br>
+
 ![image](https://github.com/binary-river/mmouse/assets/66468384/38086fff-9765-41e9-8e7a-e0294cb71de9)
+
 <br>
 
 Mmouse.java 단일 자바 파일로 이루어져 있습니다.
