@@ -1,6 +1,6 @@
 # Mmouse 
 
-![image](https://github.com/binary-river/mmouse/assets/66468384/38086fff-9765-41e9-8e7a-e0294cb71de9)
+![image](https://github.com/binary-river/mmouse/assets/66468384/09d389de-33a2-46d3-b03e-11521c1408c9)
 
 <pre>
 회사에서 일하다 보면 사내 정책상 화면잠금을 매우 짧은 시간으로 설정해야 하는 경우가 있습니다.
