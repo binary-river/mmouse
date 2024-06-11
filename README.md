@@ -11,7 +11,8 @@
 
 <br>
 
-![image](https://github.com/binary-river/mmouse/assets/66468384/09d389de-33a2-46d3-b03e-11521c1408c9)
+![image](https://github.com/binary-river/mmouse/assets/66468384/57333eea-60bf-44b9-a739-e2b6bb83dc39)
+
 
 
 ## Install
