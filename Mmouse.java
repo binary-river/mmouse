@@ -32,7 +32,7 @@ public class Mmouse {
     }
 
     private void setDefaultFrame(){
-        frame.setSize(230, 150);
+        frame.setSize(220, 130);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Container contentPane = frame.getContentPane();
         contentPane.setLayout(new FlowLayout());
@@ -93,6 +93,7 @@ public class Mmouse {
 
         frame.setFocusable(true);
         frame.setVisible(true);
+        frame.setResizable(false);
 
         contentPane.setFocusable(true);
         contentPane.setVisible(true);
