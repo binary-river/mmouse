@@ -32,7 +32,7 @@ public class Mmouse {
     }
 
     private void setDefaultFrame(){
-        frame.setSize(200, 100);
+        frame.setSize(230, 150);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Container contentPane = frame.getContentPane();
         contentPane.setLayout(new FlowLayout());
@@ -69,6 +69,12 @@ public class Mmouse {
                     contentPane.requestFocus();
                     System.out.println("STOP!");
                 }
+
+                if( e.getKeyChar() == 'S' || e.getKeyChar() == 's' ) {
+                    stopSign.set(false);
+                    move();
+                    contentPane.requestFocus();
+                }
             }
 
             @Override
@@ -78,8 +84,11 @@ public class Mmouse {
             }
         });
 
-        JLabel label = new JLabel("To stop, press 'c'");
-        contentPane.add(label);
+        JLabel labelStart = new JLabel("To start, press 's'");
+        JLabel labelStop = new JLabel("To stop, press 'c'");
+
+        contentPane.add(labelStart);
+        contentPane.add(labelStop);
 
 
         frame.setFocusable(true);
